@@ -1,2 +1,2 @@
-# pinball
+# ACM Pinball
 Pinball Issue Tracker
